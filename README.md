@@ -11,7 +11,13 @@ A desktop GUI tool built with **Python + Tkinter** that lets you quickly **searc
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/41868c95-d373-436c-84db-84fccfa039d6)
 
+Indexing Progress:
+![image](https://github.com/user-attachments/assets/1707823f-73f7-4c69-83f7-bef919375004)
+
+Results and Open With:
+![image](https://github.com/user-attachments/assets/28f77304-caa9-4e4f-a4fd-a894e38b5909)
 
 ---
 
