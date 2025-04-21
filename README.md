@@ -1,4 +1,4 @@
-# AnviDex🔍Faster PC File Search App (Windows)
+# AnviDex🔍  Faster PC File Search App (Windows)
 
 A desktop GUI tool built with **Python + Tkinter** that lets you quickly **search for files** across your system with support for:
 - Wildcards (`*`) and **smart fuzzy matching** (spaces/special characters count as wildcards)
@@ -117,3 +117,5 @@ Feel free to fork and submit pull requests! Feature ideas are welcome:
 ## 📃 License
 
 MIT License
+
+App Name: Anvi – from Sanskrit word Anveṣaṇa (Searching) + Index = AnviDex
