@@ -84,7 +84,7 @@ pip install psutil
 ## 🖥️ Running the App
 
 ```bash
-python file_search_app.py
+python Search.py
 ```
 
 Make sure the terminal stays open while the app runs.
